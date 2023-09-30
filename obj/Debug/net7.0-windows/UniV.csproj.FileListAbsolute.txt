@@ -1,0 +1,17 @@
+C:\Users\xvani\source\repos\UniV\UniV\bin\Debug\net7.0-windows\UniV.exe
+C:\Users\xvani\source\repos\UniV\UniV\bin\Debug\net7.0-windows\UniV.deps.json
+C:\Users\xvani\source\repos\UniV\UniV\bin\Debug\net7.0-windows\UniV.runtimeconfig.json
+C:\Users\xvani\source\repos\UniV\UniV\bin\Debug\net7.0-windows\UniV.dll
+C:\Users\xvani\source\repos\UniV\UniV\bin\Debug\net7.0-windows\UniV.pdb
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.Form1.resources
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.csproj.GenerateResource.cache
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.AssemblyInfoInputs.cache
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.AssemblyInfo.cs
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.csproj.CoreCompileInputs.cache
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.dll
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\refint\UniV.dll
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.pdb
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.genruntimeconfig.cache
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\ref\UniV.dll
+C:\Users\xvani\source\repos\UniV\UniV\obj\Debug\net7.0-windows\UniV.Properties.Resources.resources
